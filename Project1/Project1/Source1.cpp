@@ -10,6 +10,8 @@ int tich(int a, int b);
 int DienTichhcn(int a, int b);
 int Chuvihcn(int a, int b);
 //float thuong(int a, int b);
+int Chuvivuong(int a);
+int DTvuong(int a);
 int main()
 
 {
@@ -44,4 +46,16 @@ int DienTichhcn(int a, int b)
 		DT = a * b;
 	return DT;
 
+}
+int Chuvivuong(int a)
+{
+	int CV = 0;
+	CV = a * 4;
+	return CV;
+}
+int DTvuong(int a)
+{
+	int DTV = 0;
+	CV = a*a;
+	return DTV;
 }
