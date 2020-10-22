@@ -1,0 +1,3 @@
+﻿  Source.cpp
+e:\gitb2\project1\project1\source.cpp(13): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Project1.vcxproj -> E:\gitb2\Project1\x64\Debug\Project1.exe
