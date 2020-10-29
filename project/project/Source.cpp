@@ -23,7 +23,7 @@ int main()
 	cout << "Hieu la: " << hieu(6, 5);
 	cout << "Tich la: " << tich(6, 5);
 	cout << "Thuong la: " << thuong(6, 5);
-	randomcong();
+	cout<<" ket qua random cong la " <<randomcong();
 	system("pause");
 	return 0;
 }
@@ -39,6 +39,6 @@ int tich(int a, int b) {
 int randomcong()
 {
 	int Kq = 0;
-	return Kq + = rand();
+	return Kq  = rand()+rand();
 }
 	
