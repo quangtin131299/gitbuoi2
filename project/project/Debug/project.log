@@ -1,3 +1,6 @@
 ﻿  Source.cpp
-c:\users\administrator\source\repos\project\project\source.cpp(13): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
-  project.vcxproj -> C:\Users\Administrator\source\repos\project\Debug\project.exe
+c:\users\administrator\desktop\gitbuoi2\project\project\source.cpp(13): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\administrator\desktop\gitbuoi2\project\project\source.cpp(17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\administrator\desktop\gitbuoi2\project\project\source.cpp(21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  LINK : C:\Users\Administrator\Desktop\gitbuoi2\project\Debug\project.exe not found or not built by the last incremental link; performing full link
+  project.vcxproj -> C:\Users\Administrator\Desktop\gitbuoi2\project\Debug\project.exe
